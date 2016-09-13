@@ -13,7 +13,8 @@
             <div class="col-md-8 col-md-offset-2 col-sm-12">
             {{ range .Site.Params.welcome }}
               <p class="roboto">{{ .topline }}</p>
-              <h1><span class="bold">consent</span>hub</h1>
+              <!-- We use an image to ensure the logo to appear in the right typeface -->
+              <img class="frontimage" src="img\front.png" align="center">
               <p class="roboto">{{ .bottomline }}</p>
             {{ end }}
             </div>
