@@ -3,12 +3,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{{ .Title }}</title>
 
-  {{ if .Description }}
+    {{ if .Description }}
     <meta name="description" content="{{ .Description }}">
-  {{ end }}
+    {{ end }}
 
-  {{ .Hugo.Generator }}
- 
+    {{ .Hugo.Generator }}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
     <!-- Bootstrap and Font Awesome css-->
