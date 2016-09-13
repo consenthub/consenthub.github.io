@@ -11,9 +11,11 @@
         <div class="container clearfix">
           <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-12">
-              <p class="roboto">Welcome to our digital home</p>
+            {{ range .Site.Params.welcome }}
+              <p class="roboto">{{ .topline }}</p>
               <h1><span class="bold">consent</span>hub</h1>
-              <p class="roboto">And this is a theme for your personal or company website brought to you by <a href="http://bootstrapious.com" class="external">Bootstrapious.com</a></p>
+              <p class="roboto">{{ .bottomline }}</p>
+            {{ end }}
             </div>
           </div>
         </div>
