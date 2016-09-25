@@ -25,7 +25,12 @@
 
 {{ partial "navbar.html" . }}
 
-{{ partial "about.html" . }}   
+<!-- Biography Section -->
+{{ range where .Data.Pages "Type" "home" }}
+  {{ if eq .Title "about" }}
+    {{ partial "about.html" . }}   
+  {{ end }}
+{{ end }}
 
 {{ partial "services.html" . }}
 
