@@ -10,29 +10,9 @@
       </div>
       <div class="container-fluid">
         <div class="row no-space">
-          <div class="col-sm-4 col-md-3">
-            <div class="box"><a href="#" title=""><img src="img/portfolio-1.jpg" alt="" class="img-responsive"><h7>News Item!</h7></a><h8>And a description too. This can be a bit longer if necessary.</h8></div>
-          </div>
-          <div class="col-sm-4 col-md-3">
-            <div class="box"><a href="#" title=""><img src="img/portfolio-7.jpg" alt="" class="img-responsive"><h7>News Item!</h7></a></div>
-          </div>
-          <div class="col-sm-4 col-md-3">
-            <div class="box"><a href="#" title=""><img src="img/portfolio-3.jpg" alt="" class="img-responsive"><h7>News Item!</h7></a></div>
-          </div>
-          <div class="col-sm-4 col-md-3">
-            <div class="box"><a href="#" title=""><img src="img/portfolio-5.jpg" alt="" class="img-responsive"></a></div>
-          </div>
-          <div class="col-sm-4 col-md-3">
-            <div class="box"><a href="#" title=""><img src="img/portfolio-4.jpg" alt="" class="img-responsive"></a></div>
-          </div>
-          <div class="col-sm-4 col-md-3">
-            <div class="box"><a href="#" title=""><img src="img/portfolio-6.jpg" alt="" class="img-responsive"></a></div>
-          </div>
-          <div class="col-sm-4 col-md-3">
-            <div class="box"><a href="#" title=""><img src="img/portfolio-2.jpg" alt="" class="img-responsive"></a></div>
-          </div>
-          <div class="col-sm-4 col-md-3">
-            <div class="box"><a href="#" title=""><img src="img/portfolio-8.jpg" alt="" class="img-responsive"></a></div>
+          {{ range (where .Data.Pages "Type" "news") }}
+            {{ partial "news_grid" . }}
+          {{ end }}
           </div>
         </div>
       </div>
