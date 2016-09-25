@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+{{ partial "head.html" . }}
+
+  <body data-spy="scroll" data-target="#navigation" data-offset="120">
+
+      <section id="intro" class="intro image-background">
+      <div class="overlay"></div>
+      <div class="content">
+        <div class="container clearfix">
+          <div class="row">
+          <img class="frontimage" src="..\img\front.png" align="center">
+            
+			    {{ range .Data.Pages }}
+			    <div>
+			        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+			    </div>
+			    {{ end }}
+
+          </div>
+        </div>
+      
+    </section>
+
+
+<div class="container">
+
+    <!-- {{ $paginator := .Paginate .Data.Pages }} -->
+
+
+    <!-- {{ partial "pagination" . }} -->
+
+</div>
+
+
+{{ partial "footer.html" . }}
