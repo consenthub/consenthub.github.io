@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/news/2016-09-23-test-news1/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/news/2016-09-21-test-news3/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/news/2016-09-22-test-news2/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/news/2016-09-24-test-news/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/home/about/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/news/2016-09-25-test-news7/</loc>
+    <lastmod>2016-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/news/2016-09-25-test-news5/</loc>
+    <lastmod>2016-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/news/2016-09-25-test-news6/</loc>
+    <lastmod>2016-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/news/2016-09-25-test-news4/</loc>
+    <lastmod>2016-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
