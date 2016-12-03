@@ -62,24 +62,14 @@ h4.heading:after {
   margin: 0 auto;
   position: relative; 
   width: 100%; /* for IE 6 */
+   z-index: 10;
 }
 
 .box {
   margin-bottom: 30px;
 }
 
-.box .overlay {
-  display: block;
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: #000;
-  opacity: 0.53;
-  filter: alpha(opacity=63);
-  z-index: 2;
-}
+
 
 .box .content-title {
   position: absolute;
@@ -88,7 +78,7 @@ h4.heading:after {
   -webkit-transform: translate(0, -50%);
   -ms-transform: translate(0, -50%);
   transform: translate(0, -50%);
-  z-index: 3;
+  z-index: 20;
 }
 
 .box .content-description {
@@ -99,14 +89,22 @@ h4.heading:after {
   -webkit-transform: translate(0, -50%);
   -ms-transform: translate(0, -50%);
   transform: translate(0, -50%);
-  z-index: 3;
+  z-index: 20;
+}
+
+.box .ontop{
+  z-index: 20;
 }
 
 h7 {
+   font-family: 'Open Sans', sans-serif;
    position: absolute; 
-   top: 30%; 
+   padding-left: 5%;
+   padding-right: 5%;
+   top: 50%; 
    left: 5%; 
-   width: 100%; 
+   width: 100%;
+   z-index: 20; 
 }
 
 h7 span { 
@@ -116,17 +114,34 @@ h7 span {
 }
 
 h8 {
+   font-family: 'Roboto Condensed', sans-serif;
    position: absolute; 
-   padding-top: 40px;
+   padding-left: 5%;
+   padding-top: 5%;
    top: 0%; 
-   left: 5%; 
+   left: 6%; 
    width: 80%; 
+   margin: 10px auto 20px;
+   z-index: 20;
 }
 
 h8 span { 
    background: rgb(0, 0, 0); /* fallback color */
    background: rgba(0, 0, 0, 0.3);
    padding:0 5px; 
+}
+
+.box .overlay {
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #000;
+  opacity: 0.73;
+  filter: alpha(opacity=73);
+  z-index: 20;
 }
 
 .no-space .box {

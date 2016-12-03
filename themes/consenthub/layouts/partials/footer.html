@@ -6,8 +6,14 @@
             <p class="roboto">&copy;2016 {{ .name }}</p>
           </div>
           <div class="col-md-6">
-            <p class="credit roboto">Powered by Hugo | theme credits: <a href="http://bootstrapious.com/portfolio-themes">Bootstrapious</a></p>
-            <!-- Please do not remove the backlink to us. It is part of the licence conditions. Thanks for understanding :)-->
+            <p class="credit roboto">
+            Administration: {{ .administration }}
+            </br>
+            Funding: {{ .funding }}
+            </br>
+             <!-- Please do not remove the backlink to Bootstrapious. It is part of the licence conditions. Thanks for understanding :)-->
+            Website: {{ .website }} + <a href="http://bootstrapious.com/portfolio-themes">Bootstrapious</a>
+            </p>
           </div>
           {{ end }}
         </div>

@@ -6,4 +6,4 @@ section_id = 0
 weight = 0
 +++
 
-__CONSENT__HUB is the centre of the consent research community and a key point of contact for policymakers. We connect academics and policymakers working on consent and the way consent is communicated. We organise and publicise research activities, foster collaboration, inspire new researchers to enter the field, and provide early-career researchers with opportunities.
+CONSENT HUB is a network for the consent research community. We share news about events, activities and publications. We aim to foster collaboration and connect academic research with policymaking and public engagement. Supported by an Early-Career Leadership Award from the Arts and Humanities Research Council, we have a particular interest in inspiring new researchers to enter the field and providing early-career researchers with opportunities.
