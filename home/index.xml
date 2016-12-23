@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on ConsentHub</title>
-    <link>http://www.consenthub.co/home/</link>
+    <link>http://replace-this-with-your-hugo-site.com/home/index.xml</link>
     <description>Recent content in Homes on ConsentHub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.consenthub.co/home/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://replace-this-with-your-hugo-site.com/home/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about</title>
-      <link>http://www.consenthub.co/home/about/</link>
+      <link>http://replace-this-with-your-hugo-site.com/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.consenthub.co/home/about/</guid>
+      <guid>http://replace-this-with-your-hugo-site.com/home/about/</guid>
       <description>&lt;p&gt;CONSENT HUB is a network for the consent research community. We share news about events, activities and publications. We aim to foster collaboration and connect academic research with policymaking and public engagement. Supported by an Early-Career Leadership Award from the Arts and Humanities Research Council, we have a particular interest in inspiring new researchers to enter the field and providing early-career researchers with opportunities.&lt;/p&gt;
 </description>
     </item>

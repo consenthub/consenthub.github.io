@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peoples on ConsentHub</title>
+    <link>http://replace-this-with-your-hugo-site.com/people/index.xml</link>
+    <description>Recent content in Peoples on ConsentHub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/people/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://replace-this-with-your-hugo-site.com/people/2016-12-23-dougherty/</link>
+      <pubDate>Fri, 23 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/people/2016-12-23-dougherty/</guid>
+      <description>&lt;p&gt;Tom Dougherty is a philosopher based in the UK. He has researched the questions of what type of deception invalidates sexual consent and of whether consent needs to be communicated.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://replace-this-with-your-hugo-site.com/people/2016-12-22-placeholder1/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/people/2016-12-22-placeholder1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://replace-this-with-your-hugo-site.com/people/2016-12-21-placeholder2/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/people/2016-12-21-placeholder2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://replace-this-with-your-hugo-site.com/people/2016-12-20-placeholder3/</link>
+      <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/people/2016-12-20-placeholder3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
