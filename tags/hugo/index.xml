@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Consent (beta)</title>
-    <link>/tags/hugo/index.xml</link>
+    <link>http://www.consenthub.co/tags/hugo/index.xml</link>
     <description>Recent content in Hugo on Consent (beta)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016 - 2017, ConsentHub; all rights reserved.</copyright>
-    <atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.consenthub.co/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What is consent?</title>
-      <link>/blog/2017/05/01/event-one/</link>
+      <link>http://www.consenthub.co/blog/2017/05/01/event-one/</link>
       <pubDate>Mon, 01 May 2017 21:49:20 +0200</pubDate>
       
-      <guid>/blog/2017/05/01/event-one/</guid>
+      <guid>http://www.consenthub.co/blog/2017/05/01/event-one/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.&lt;/p&gt;
@@ -27,10 +27,10 @@
     
     <item>
       <title>New centre for Policy and Justice</title>
-      <link>/blog/2016/08/03/news-three/</link>
+      <link>http://www.consenthub.co/blog/2016/08/03/news-three/</link>
       <pubDate>Wed, 03 Aug 2016 13:39:46 +0200</pubDate>
       
-      <guid>/blog/2016/08/03/news-three/</guid>
+      <guid>http://www.consenthub.co/blog/2016/08/03/news-three/</guid>
       <description>
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

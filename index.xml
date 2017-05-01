@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Consent (beta)</title>
-    <link>/index.xml</link>
+    <link>http://www.consenthub.co/index.xml</link>
     <description>Recent content on Consent (beta)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016 - 2017, ConsentHub; all rights reserved.</copyright>
     <lastBuildDate>Mon, 01 May 2017 21:49:20 +0200</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.consenthub.co/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What is consent?</title>
-      <link>/blog/2017/05/01/event-one/</link>
+      <link>http://www.consenthub.co/blog/2017/05/01/event-one/</link>
       <pubDate>Mon, 01 May 2017 21:49:20 +0200</pubDate>
       
-      <guid>/blog/2017/05/01/event-one/</guid>
+      <guid>http://www.consenthub.co/blog/2017/05/01/event-one/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.&lt;/p&gt;
@@ -28,10 +28,10 @@
     
     <item>
       <title>Conditions for understanding</title>
-      <link>/blog/2017/02/24/news-one/</link>
+      <link>http://www.consenthub.co/blog/2017/02/24/news-one/</link>
       <pubDate>Fri, 24 Feb 2017 13:50:46 +0200</pubDate>
       
-      <guid>/blog/2017/02/24/news-one/</guid>
+      <guid>http://www.consenthub.co/blog/2017/02/24/news-one/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -50,10 +50,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
     
     <item>
       <title>New centre for Policy and Justice</title>
-      <link>/blog/2016/08/03/news-three/</link>
+      <link>http://www.consenthub.co/blog/2016/08/03/news-three/</link>
       <pubDate>Wed, 03 Aug 2016 13:39:46 +0200</pubDate>
       
-      <guid>/blog/2016/08/03/news-three/</guid>
+      <guid>http://www.consenthub.co/blog/2016/08/03/news-three/</guid>
       <description>
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -76,10 +76,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
     
     <item>
       <title>Conference: Epistemic Injustice</title>
-      <link>/blog/2015/10/10/event-two/</link>
+      <link>http://www.consenthub.co/blog/2015/10/10/event-two/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>/blog/2015/10/10/event-two/</guid>
+      <guid>http://www.consenthub.co/blog/2015/10/10/event-two/</guid>
       <description>
 
 &lt;h1 id=&#34;conference-on-epistemic-injustice&#34;&gt;Conference on Epistemic Injustice&lt;/h1&gt;
@@ -98,10 +98,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
     
     <item>
       <title>What next?</title>
-      <link>/blog/2015/09/17/news-two/</link>
+      <link>http://www.consenthub.co/blog/2015/09/17/news-two/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>/blog/2015/09/17/news-two/</guid>
+      <guid>http://www.consenthub.co/blog/2015/09/17/news-two/</guid>
       <description>
 
 &lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&amp;gt;&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;html/template&lt;/a&gt; library for
@@ -160,7 +160,7 @@ functions.&lt;/p&gt;
 &lt;p&gt;Each go template has a struct (object) made available to it. In hugo each
 template is passed either a page or a node struct depending on which type of
 page you are rendering. More details are available on the
-&lt;a href=&#34;/layout/variables&#34;&gt;variables&lt;/a&gt; page.&lt;/p&gt;
+&lt;a href=&#34;http://www.consenthub.co/layout/variables&#34;&gt;variables&lt;/a&gt; page.&lt;/p&gt;
 
 &lt;p&gt;A variable is accessed by referencing the variable name.&lt;/p&gt;
 
@@ -177,7 +177,7 @@ page you are rendering. More details are available on the
 
 &lt;p&gt;Go template ship with a few functions which provide basic functionality. The go
 template system also provides a mechanism for applications to extend the
-available functions with their own. &lt;a href=&#34;/layout/functions&#34;&gt;Hugo template
+available functions with their own. &lt;a href=&#34;http://www.consenthub.co/layout/functions&#34;&gt;Hugo template
 functions&lt;/a&gt; provide some additional functionality we believe
 are useful for building websites. Functions are called by using their name
 followed by the required parameters separated by spaces. Template
@@ -365,7 +365,7 @@ you want to inside of your templates.&lt;/p&gt;
 &lt;h2 id=&#34;using-content-page-parameters&#34;&gt;Using Content (page) Parameters&lt;/h2&gt;
 
 &lt;p&gt;In each piece of content you can provide variables to be used by the
-templates. This happens in the &lt;a href=&#34;/content/front-matter&#34;&gt;front matter&lt;/a&gt;.&lt;/p&gt;
+templates. This happens in the &lt;a href=&#34;http://www.consenthub.co/content/front-matter&#34;&gt;front matter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;An example of this is used in this documentation site. Most of the pages
 benefit from having the table of contents provided. Sometimes the TOC just
@@ -444,10 +444,10 @@ so, such as in this example:&lt;/p&gt;
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>http://www.consenthub.co/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>http://www.consenthub.co/contact/</guid>
       <description>
 
 &lt;h1 id=&#34;we-are-here-to-help-you&#34;&gt;We are here to help you&lt;/h1&gt;
@@ -460,10 +460,10 @@ so, such as in this example:&lt;/p&gt;
     
     <item>
       <title>FAQ</title>
-      <link>/faq/</link>
+      <link>http://www.consenthub.co/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/faq/</guid>
+      <guid>http://www.consenthub.co/faq/</guid>
       <description>
 
 &lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
